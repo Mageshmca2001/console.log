@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.AssemblyInfo.cs
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Magesh.app\Magesh.app\bin\Debug\net6.0\Magesh.app.exe
+C:\Users\user\source\repos\Magesh.app\Magesh.app\bin\Debug\net6.0\Magesh.app.deps.json
+C:\Users\user\source\repos\Magesh.app\Magesh.app\bin\Debug\net6.0\Magesh.app.runtimeconfig.json
+C:\Users\user\source\repos\Magesh.app\Magesh.app\bin\Debug\net6.0\Magesh.app.dll
+C:\Users\user\source\repos\Magesh.app\Magesh.app\bin\Debug\net6.0\Magesh.app.pdb
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.dll
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\refint\Magesh.app.dll
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.pdb
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.genruntimeconfig.cache
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\ref\Magesh.app.dll
+C:\Users\user\source\repos\Magesh.app\Magesh.app\obj\Debug\net6.0\Magesh.app.sourcelink.json
